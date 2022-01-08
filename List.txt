@@ -1,0 +1,9 @@
+- create folder store & create foleder action & folder reducer
+- create action.js
+- create bookReducer.js
+- create store
+- export store to index.js and send Provide by react-redux
+
+
+- ຂຽນແບບ slice ຈະລວມທັງ file action & reducer ທີ່ດຽວກັນ ສະດວກກວ່າ ແລະ ແນະນຳ
+- prepare ຄືການສົ່ງຄ່າເພີ່ມເຂົ້າໄປທີ່ state ກ່ອນການເຊັບຂໍ້ມູນ ລລັກສະນະຄ້າຍຄືກັບ Mongoose "pre"
